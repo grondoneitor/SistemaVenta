@@ -1,0 +1,10 @@
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

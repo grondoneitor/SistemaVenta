@@ -1,0 +1,9 @@
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.exe.config
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.exe
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.Properties.Resources.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.GenerateResource.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.exe
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
