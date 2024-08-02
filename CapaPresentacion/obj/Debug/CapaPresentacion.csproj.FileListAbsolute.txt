@@ -11,3 +11,9 @@ C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidadd.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocioo.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidadd.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocioo.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb

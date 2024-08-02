@@ -1,0 +1,11 @@
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaNegocioo.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaNegocioo.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaDatos.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaEntidadd.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaDatos.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\bin\Debug\CapaEntidadd.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\obj\Debug\CapaNegocioo.csproj.AssemblyReference.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\obj\Debug\CapaNegocioo.csproj.CoreCompileInputs.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\obj\Debug\CapaNegocioo.csproj.CopyComplete
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\obj\Debug\CapaNegocioo.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaNegocioo\obj\Debug\CapaNegocioo.pdb

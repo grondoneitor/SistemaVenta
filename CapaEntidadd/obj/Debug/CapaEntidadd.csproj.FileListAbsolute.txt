@@ -1,0 +1,6 @@
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\obj\Debug\CapaEntidadd.csproj.AssemblyReference.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\obj\Debug\CapaEntidadd.csproj.CoreCompileInputs.cache
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\bin\Debug\CapaEntidadd.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\bin\Debug\CapaEntidadd.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\obj\Debug\CapaEntidadd.dll
+C:\Users\sandra\Desktop\SistemaVenta\CapaEntidadd\obj\Debug\CapaEntidadd.pdb

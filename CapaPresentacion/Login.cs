@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using CapaNegocioo;
+using CapaEntidadd;
 namespace CapaPresentacion
 {
     public partial class Login : Form
@@ -29,21 +30,37 @@ namespace CapaPresentacion
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            Inicio inicio = new Inicio();
+             List<Usuarios> listado = new CN_Usuario().Listar();
 
-            inicio.Show();
+            Usuarios usuarios = new CN_Usuario().Listar().Where(u => u.Documento == txtDocumento.Text && u.Clave == txtContraseña.Text).FirstOrDefault();
 
-            this.Hide();
+            if (usuarios != null)
+            {
+                Inicio inicio = new Inicio();
 
-            inicio.FormClosing += frm_Closing;
+                inicio.Show();
+
+
+
+                this.Hide();
+
+                inicio.FormClosing += frm_Closing;
+            }
+            else
+            {
+                MessageBox.Show("No existe pelotudo","Mensaje", MessageBoxButtons.OKCancel,MessageBoxIcon.Error);
+            }
+
+
 
         }
 
 
         private void frm_Closing(object sender, FormClosingEventArgs e)
         {
+            txtDocumento.Text = "";
+            txtContraseña.Text = "";
             this.Show();
-
 
         }
 
