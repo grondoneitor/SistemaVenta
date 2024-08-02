@@ -81,7 +81,6 @@
             this.label1.Size = new System.Drawing.Size(241, 31);
             this.label1.TabIndex = 2;
             this.label1.Text = "Sistema de Ventas";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // menuAcercaDe
             // 
