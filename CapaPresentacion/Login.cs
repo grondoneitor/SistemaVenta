@@ -36,7 +36,7 @@ namespace CapaPresentacion
 
             if (usuarios != null)
             {
-                Inicio inicio = new Inicio();
+                Inicio inicio = new Inicio(usuarios);
 
                 inicio.Show();
 
@@ -64,5 +64,9 @@ namespace CapaPresentacion
 
         }
 
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

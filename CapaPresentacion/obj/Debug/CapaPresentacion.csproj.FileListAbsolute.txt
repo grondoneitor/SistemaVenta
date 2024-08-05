@@ -17,3 +17,11 @@ C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaEntidadd.pdb
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaNegocioo.pdb
 C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Categoria.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Clientes.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Compras.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Producto.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Proveedores.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Reportes.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Usuarios.resources
+C:\Users\sandra\Desktop\SistemaVenta\CapaPresentacion\obj\Debug\CapaPresentacion.FR_Ventas.resources

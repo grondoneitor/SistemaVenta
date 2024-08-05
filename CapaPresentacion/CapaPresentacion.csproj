@@ -53,6 +53,66 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FR_Categoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Categoria.Designer.cs">
+      <DependentUpon>FR_Categoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Clientes.Designer.cs">
+      <DependentUpon>FR_Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Compras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Compras.Designer.cs">
+      <DependentUpon>FR_Compras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_DetalleCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_DetalleCompra.Designer.cs">
+      <DependentUpon>FR_DetalleCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_DetalleVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_DetalleVenta.Designer.cs">
+      <DependentUpon>FR_DetalleVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Producto.Designer.cs">
+      <DependentUpon>FR_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Proveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Proveedores.Designer.cs">
+      <DependentUpon>FR_Proveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Reportes.Designer.cs">
+      <DependentUpon>FR_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Usuarios.Designer.cs">
+      <DependentUpon>FR_Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FR_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FR_Ventas.Designer.cs">
+      <DependentUpon>FR_Ventas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +127,30 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FR_Categoria.resx">
+      <DependentUpon>FR_Categoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Clientes.resx">
+      <DependentUpon>FR_Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Compras.resx">
+      <DependentUpon>FR_Compras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Producto.resx">
+      <DependentUpon>FR_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Proveedores.resx">
+      <DependentUpon>FR_Proveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Reportes.resx">
+      <DependentUpon>FR_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Usuarios.resx">
+      <DependentUpon>FR_Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FR_Ventas.resx">
+      <DependentUpon>FR_Ventas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Inicio.resx">
       <DependentUpon>Inicio.cs</DependentUpon>
     </EmbeddedResource>
