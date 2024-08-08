@@ -70,5 +70,27 @@ namespace CapaPresentacion
         {
 
         }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+            dgvData.Rows.Add(new object[] {"",txtIdUsurario.Text,txtDocumento.Text,txtNombreCompleto.Text, txtCorreo.Text, txtClave.Text,
+            ((OpcionCombo)cbxRol.SelectedItem).Valor.ToString(),((OpcionCombo)cbxRol.SelectedItem).Texto.ToString(),
+            ((OpcionCombo)cbxEstado.SelectedItem).Valor.ToString(),((OpcionCombo)cbxEstado.SelectedItem).Texto.ToString()
+            });
+
+            Limpiar();
+        }
+
+        private void Limpiar()
+        {
+            txtIdUsurario.Text = "0";
+            txtDocumento.Text = "";
+            txtNombreCompleto.Text = "";
+            txtCorreo.Text = "";
+            txtClave.Text = "";
+            txtConfirmarClave.Text = "";
+            cbxRol.SelectedIndex = 0;   
+            cbxEstado.SelectedIndex = 0;    
+        }
     }
 }
