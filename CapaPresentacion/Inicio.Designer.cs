@@ -65,7 +65,7 @@
             this.menuacercade});
             this.menu.Location = new System.Drawing.Point(0, 93);
             this.menu.Name = "menu";
-            this.menu.Size = new System.Drawing.Size(987, 73);
+            this.menu.Size = new System.Drawing.Size(1124, 73);
             this.menu.TabIndex = 0;
             this.menu.Text = "menuStrip1";
             // 
@@ -105,7 +105,7 @@
             this.iconMenuItem1.IconColor = System.Drawing.Color.Black;
             this.iconMenuItem1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconMenuItem1.Name = "iconMenuItem1";
-            this.iconMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.iconMenuItem1.Size = new System.Drawing.Size(125, 22);
             this.iconMenuItem1.Text = "Categoria";
             this.iconMenuItem1.Click += new System.EventHandler(this.iconMenuItem1_Click);
             // 
@@ -115,7 +115,7 @@
             this.iconMenuItem2.IconColor = System.Drawing.Color.Black;
             this.iconMenuItem2.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconMenuItem2.Name = "iconMenuItem2";
-            this.iconMenuItem2.Size = new System.Drawing.Size(180, 22);
+            this.iconMenuItem2.Size = new System.Drawing.Size(125, 22);
             this.iconMenuItem2.Text = "Producto";
             this.iconMenuItem2.Click += new System.EventHandler(this.iconMenuItem2_Click);
             // 
@@ -141,7 +141,7 @@
             this.subMenuRegistrarVenta.IconColor = System.Drawing.Color.Black;
             this.subMenuRegistrarVenta.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.subMenuRegistrarVenta.Name = "subMenuRegistrarVenta";
-            this.subMenuRegistrarVenta.Size = new System.Drawing.Size(180, 22);
+            this.subMenuRegistrarVenta.Size = new System.Drawing.Size(161, 22);
             this.subMenuRegistrarVenta.Text = "Registrar";
             this.subMenuRegistrarVenta.Click += new System.EventHandler(this.subMenuRegistrarVenta_Click);
             // 
@@ -151,7 +151,7 @@
             this.subMenuVerDetalleVenta.IconColor = System.Drawing.Color.Black;
             this.subMenuVerDetalleVenta.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.subMenuVerDetalleVenta.Name = "subMenuVerDetalleVenta";
-            this.subMenuVerDetalleVenta.Size = new System.Drawing.Size(180, 22);
+            this.subMenuVerDetalleVenta.Size = new System.Drawing.Size(161, 22);
             this.subMenuVerDetalleVenta.Text = "Ver Detalle Venta";
             this.subMenuVerDetalleVenta.Click += new System.EventHandler(this.subMenuVerDetalleVenta_Click);
             // 
@@ -177,7 +177,7 @@
             this.subMenuRegistrarCompra.IconColor = System.Drawing.Color.Black;
             this.subMenuRegistrarCompra.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.subMenuRegistrarCompra.Name = "subMenuRegistrarCompra";
-            this.subMenuRegistrarCompra.Size = new System.Drawing.Size(180, 22);
+            this.subMenuRegistrarCompra.Size = new System.Drawing.Size(172, 22);
             this.subMenuRegistrarCompra.Text = "Registrar Compra";
             this.subMenuRegistrarCompra.Click += new System.EventHandler(this.subMenuRegistrarCompra_Click);
             // 
@@ -187,7 +187,7 @@
             this.subMenuVerDetalleCompra.IconColor = System.Drawing.Color.Black;
             this.subMenuVerDetalleCompra.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.subMenuVerDetalleCompra.Name = "subMenuVerDetalleCompra";
-            this.subMenuVerDetalleCompra.Size = new System.Drawing.Size(180, 22);
+            this.subMenuVerDetalleCompra.Size = new System.Drawing.Size(172, 22);
             this.subMenuVerDetalleCompra.Text = "Ver detalle compra";
             this.subMenuVerDetalleCompra.Click += new System.EventHandler(this.subMenuVerDetalleCompra_Click);
             // 
@@ -253,7 +253,7 @@
             this.menuTitulo.Location = new System.Drawing.Point(0, 0);
             this.menuTitulo.Name = "menuTitulo";
             this.menuTitulo.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.menuTitulo.Size = new System.Drawing.Size(987, 93);
+            this.menuTitulo.Size = new System.Drawing.Size(1124, 93);
             this.menuTitulo.TabIndex = 1;
             this.menuTitulo.Text = "menuStrip2";
             // 
@@ -273,7 +273,7 @@
             this.lblNombreUsuario.AutoSize = true;
             this.lblNombreUsuario.BackColor = System.Drawing.Color.SteelBlue;
             this.lblNombreUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNombreUsuario.Location = new System.Drawing.Point(642, 42);
+            this.lblNombreUsuario.Location = new System.Drawing.Point(730, 42);
             this.lblNombreUsuario.Name = "lblNombreUsuario";
             this.lblNombreUsuario.Size = new System.Drawing.Size(107, 17);
             this.lblNombreUsuario.TabIndex = 3;
@@ -285,7 +285,7 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.SteelBlue;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(585, 42);
+            this.label2.Location = new System.Drawing.Point(672, 43);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(61, 17);
             this.label2.TabIndex = 4;
@@ -296,14 +296,14 @@
             this.panelnicio.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelnicio.Location = new System.Drawing.Point(0, 166);
             this.panelnicio.Name = "panelnicio";
-            this.panelnicio.Size = new System.Drawing.Size(987, 413);
+            this.panelnicio.Size = new System.Drawing.Size(1124, 550);
             this.panelnicio.TabIndex = 5;
             // 
             // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(987, 579);
+            this.ClientSize = new System.Drawing.Size(1124, 716);
             this.Controls.Add(this.panelnicio);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.lblNombreUsuario);

@@ -16,9 +16,18 @@ namespace CapaPresentacion
 {
     public partial class Inicio : Form
     {
-        public Inicio(Usuarios usuario)
+        public Inicio(Usuarios usuario = null)
         {
-            _Usuario = usuario;
+            if (usuario == null) 
+            {
+                _Usuario = new Usuarios() { nombreCompleto = "El Nulo", IdUsuarios = 1 };
+            }
+            else
+            {
+                _Usuario = usuario;
+
+            }
+
             InitializeComponent();
         }
 
