@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using CapaPresentacion.Utilidades;
 using CapaNegocioo;
 using CapaEntidadd;
+using System.Windows.Controls;
 
 namespace CapaPresentacion
 {
@@ -41,6 +42,17 @@ namespace CapaPresentacion
             cbxRol.ValueMember = "Valor";
             cbxRol.SelectedIndex = 0;
 
+
+            foreach (DataGridViewColumn columna in dgvData.Columns)
+            {
+                if (columna.Visible == true && columna.Name != "btnSeleccionar")
+                {
+                    cbxBusqueda.Items.Add(new OpcionCombo() { Valor = columna.Name, Texto = columna.HeaderText });
+                }
+            }
+            cbxBusqueda.DisplayMember = "Texto";
+            cbxBusqueda.ValueMember = "Valor";
+            cbxBusqueda.SelectedIndex = 0;
         } 
 
 
