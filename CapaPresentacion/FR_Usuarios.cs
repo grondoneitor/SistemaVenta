@@ -53,8 +53,24 @@ namespace CapaPresentacion
             cbxBusqueda.DisplayMember = "Texto";
             cbxBusqueda.ValueMember = "Valor";
             cbxBusqueda.SelectedIndex = 0;
+
+
+            List<Usuarios> listaUsuarios = new CN_Usuario().Listar();
+
+            foreach (Usuarios usuario in listaUsuarios)
+            {
+                dgvData.Rows.Add(new object[] {"",usuario.IdUsuarios,usuario.Documento, usuario.nombreCompleto, usuario.Correo,usuario.Clave,
+                     usuario.oRol.IdRol ,usuario.oRol.Descripcion, usuario.Estado == true ? 1 : 0, usuario.Estado == true ? "Activo": "No activo" });
+
+            }
+
         } 
 
+        private void LlenandoDGV()
+        {
+
+
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {
